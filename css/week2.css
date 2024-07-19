@@ -155,7 +155,7 @@ body{
 }
 
 .banner2{
-    background-image: url("images/background-img.png");
+    background-image: url(images/background-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 160px 0;
@@ -228,7 +228,7 @@ body{
 .projectsTitle{
     width: 746px;
     font-size: 64px;
-    margin-left: 0 auto;
+    margin-left: auto;
 }
 .pjBox_top{
     margin-bottom: 28px;
